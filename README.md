@@ -1,7 +1,7 @@
 # Sobre-mim-
 Aqui você vai conferir um pouco sobre o que eu domino no Front-end
 
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá, bem vindo(a) ao meu perfil! :) Sou Desenvolvedor Front-end focado em HTML5, CSS3, Javascript, Figma, Canva e Photoshop. Confira alguns dos meus projetos!
 
 
